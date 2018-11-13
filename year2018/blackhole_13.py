@@ -13,6 +13,6 @@ def convert_miller_to_earth(hours_in_miller):
 
 if __name__ == '__main__':
     miller_time = input("Please enter hours in Miller's Planet: ")
-    earth_hours = convert_miller_to_earth(int(miller_time))
+    earth_hours = convert_miller_to_earth(float(miller_time))
 
     print("That is {} hours in Earth time.".format(earth_hours))
