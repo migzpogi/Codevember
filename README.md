@@ -6,3 +6,6 @@ Inspired by the movie Interstellar, this converts how much time has elapsed in M
 
 ## November 16 - Star
 A countdown timer that shows how much left before the Sun dies. Spoiler Alert: around 5 billion years.
+
+## November 17 - Crown
+Track LeBron James' ranking in the all time scoring list of the NBA. *(See separate documentation for the API used)*

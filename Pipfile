@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 nose = "*"
+requests = "*"
 
 [dev-packages]
 
